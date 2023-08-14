@@ -1,1 +1,1 @@
-asdasd
+Esto es una descripción de la clase Libro
